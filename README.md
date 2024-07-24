@@ -1,8 +1,23 @@
-# React + Vite
+![](https://github.com/Caden0002/DESIGNLoaderLDRS/blob/main/LoaderLDRS.gif)
+#### How to Install and Run the Project ####
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# DESIGNCustomCursor
+This project shows you how to implement a custom cursor interaction in React <br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn more about implementing custom cursor in React here:<br />
+https://medium.com/@caden0002/implementing-custom-cursors-in-react-51784bae3d1d
+
+
+## Tech Stack ##
+React<br />
+Tailwind<br />
+CSS<br />
+
+
+
+
+
